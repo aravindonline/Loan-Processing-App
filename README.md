@@ -1,2 +1,2 @@
-# ABC_Fin_App
+# Loan Approval App
 Web based loan application approval system
